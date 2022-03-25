@@ -1,0 +1,13 @@
+@font-face{
+    font-family: Daredevil;
+    src: url(Daredevil.ttf);
+}
+
+h5{
+    font-family: Daredevil;
+}
+
+body{
+    background: url(../IMG/Fondo2.jpg);
+}
+
